@@ -45,5 +45,5 @@ During the implementation, we encountered and solved the following technical hur
 * **Noise Scaling:** Tuning the simulation to exactly match the -9.5 dB Input SNR required precise adjustment of the EOG-to-EEG power ratios, which we solved by normalizing the signal powers before mixing.
 
 ## 6. Future Plans
-* **In-House Data Acquisition:** We plan to record our own EEG and EOG data using the equipment available in the Robotics Lab. This will allow us to test the algorithm on fresh, real-world biological signals.
+* **Getting our own dataset:** We plan to record our own EEG and EOG data using the equipment available in the Robotics Lab. This will allow us to test the algorithm on fresh, real-world biological signals.
 * **Public Dataset Validation:** In addition to our own data, we will validate the SVD implementation using the **EEG Eye Artifact Dataset** hosted on Zenodo: https://zenodo.org/records/4002038.
