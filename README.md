@@ -47,3 +47,10 @@ During the implementation, we encountered and solved the following technical hur
 ## 6. Future Plans
 * **Getting our own dataset:** We plan to record our own EEG and EOG data using the equipment available in the Robotics Lab. This will allow us to test the algorithm on fresh, real-world biological signals.
 * **Public Dataset Validation:** In addition to our own data, we will validate the SVD implementation using the **EEG Eye Artifact Dataset** hosted on Zenodo: https://zenodo.org/records/4002038.
+
+## 7. Evaluation Details
+
+- Platform used: mac
+- Hardware: cpu
+- Time taken: 273 s
+- Environment: Matlab

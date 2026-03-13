@@ -1,0 +1,56 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2026-02-27T21:11:17.064134+05:30",
+            "extras": {
+            },
+            "index": 1,
+            "isInterval": false,
+            "label": "Eyes Opened",
+            "originalEndDatetime": "2026-02-27T21:11:17.061100+05:30",
+            "originalStartDatetime": "2026-02-27T21:11:02.058648+05:30",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2026-02-27T21:11:02.056892+05:30",
+            "type": "interval",
+            "uuid": "2e57b81d-ce2f-4b72-9104-0273fbb2c4e6",
+            "value": 1
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2026-02-27T21:11:37.068585+05:30",
+            "extras": {
+            },
+            "index": 2,
+            "isInterval": false,
+            "label": "Eyes Closed",
+            "originalEndDatetime": "2026-02-27T21:11:37.070435+05:30",
+            "originalStartDatetime": "2026-02-27T21:11:22.063457+05:30",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2026-02-27T21:11:22.061343+05:30",
+            "type": "interval",
+            "uuid": "db8bac3c-5e70-414e-91d1-5d7338d4aaad",
+            "value": 3
+        }
+    ],
+    "connectionType": "dongle",
+    "demographics": {
+        "birthday": null,
+        "countryOfInfluence": {
+            "iso": "",
+            "printable": ""
+        },
+        "countryOfResidence": {
+            "iso": "",
+            "printable": ""
+        },
+        "gender": "U"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2026-02-27T21:19:17.898+05:30",
+    "headsetType": "EPOCX",
+    "mappings": null,
+    "montageType": "UNKNOWN",
+    "recordId": "9322e4d2-12b8-44f6-a737-c5f239fe67d5",
+    "user": "autogen-9f4069bf-9f43-4382-af27-720c538b3cd4"
+}
